@@ -1,5 +1,5 @@
-## 👋 Hi, I'm devagabriel
-An Information Technology student exploring backend development, system design, and practical software solutions for real-world use cases.
+# 👋 Hi, I'm devagabriel
+<h2>An Information Technology student exploring backend development, system design, and practical software solutions for real-world use cases.</h2>
 
 ## ⚡ Languages and Tools
 <p>
