@@ -37,7 +37,7 @@
   </a>
 </p>
 
-##  📫 Contact me
+##  📫 Contact Me
 <p>
   <a href="https://www.linkedin.com/in/devagabriel/" target="_blank">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" width="35">
