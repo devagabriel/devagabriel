@@ -37,7 +37,16 @@
   </a>
 </p>
 
+##  📫 Contact me
+<p>
+  <a href="https://www.linkedin.com/in/devagabriel/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg" width="35">
+  </a>
+  <a href="https://www.facebook.com/devagabriel" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/facebook.svg" width="35">
+  </a>
+  <a href="https://www.instagram.com/gabbybxnny/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/instagram.svg" width="35">
+  </a>
+</p>
 
-<!--
-##  📫 How to reach me:
--->
