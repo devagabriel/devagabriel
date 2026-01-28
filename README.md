@@ -45,8 +45,5 @@
   <a href="https://www.facebook.com/devagabriel" target="_blank">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/facebook/facebook-original.svg" width="35">
   </a>
-  <a href="https://www.instagram.com/gabbybxnny/" target="_blank">
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/instagram.svg" width="35">
-  </a>
 </p>
 
