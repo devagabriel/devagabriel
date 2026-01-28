@@ -2,7 +2,7 @@
 <p>An Information Technology student exploring backend development, system design, and practical software solutions for real-world use cases.</p>
 
 ## ⚡  Languages and Tools
-<p>
+<p style="text-align:center">
   <a href="https://www.python.org/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="35"/> 
   </a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="35"/>
@@ -38,7 +38,7 @@
 </p>
 
 ##  📫 Contact Me
-<p>
+<p style="text-align:center">
   <a href="https://www.linkedin.com/in/devagabriel/" target="_blank">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" width="35">
   </a>
