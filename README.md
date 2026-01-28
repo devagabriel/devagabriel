@@ -1,6 +1,6 @@
 ## 👋 Hi, I'm devagabriel
 
-<p align="center">
+<p>
 An Information Technology student exploring backend development, system design, and practical software solutions for real-world use cases.
 </p>
 
