@@ -39,8 +39,9 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
 
-## GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=devagabriel&theme=rose&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=devagabriel&theme=rose&hide_border=true)<br/>
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=devagabriel&theme=dracula&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=devagabriel&theme=dracula&hide_border=false)<br/>
 
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
